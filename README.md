@@ -1,2 +1,2 @@
-# stockCal
-Stock buy &amp; sell calculation in .txt
+# stockCalculation
+Stock buy &amp; sell calculation in .txt file
